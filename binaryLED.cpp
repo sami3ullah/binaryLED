@@ -1,3 +1,5 @@
+#include "binaryLED.h"
+
 BinaryLED::BinaryLED(int pin0, int pin1, int pin2, int pin3, int pin4, int pin5, int pin6, int pin7){
 
         _ledPin[0] = pin0;
